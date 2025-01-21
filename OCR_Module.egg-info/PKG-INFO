@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: OCR_Module
+Version: 0.1
+Summary: OCR Package
+Home-page: https://github.com/Atef-Magdy/OCR_Module
+Author: *
+Author-email: *
+Classifier: Programming Language :: Python :: 3.6^
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
