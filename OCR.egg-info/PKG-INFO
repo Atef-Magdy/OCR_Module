@@ -5,6 +5,6 @@ Summary: OCR Package
 Home-page: https://github.com/Atef-Magdy/OCR_Module
 Author: *
 Author-email: *
-Classifier: Programming Language :: Python :: 3.6^
-Requires-Python: >=3.6
+Classifier: Programming Language :: Python :: 3.13^
+Requires-Python: >=3.13
 Description-Content-Type: text/markdown
