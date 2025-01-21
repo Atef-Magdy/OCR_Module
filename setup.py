@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="OCR",
+    name="OCR_Module",
     version="0.1",
     packages=find_packages(include=["OCR", "OCR.*"]),
     install_requires=[],
