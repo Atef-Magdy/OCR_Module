@@ -1,8 +1,0 @@
-README.md
-setup.py
-OCR/__init__.py
-OCR/hello.py
-OCR_Module.egg-info/PKG-INFO
-OCR_Module.egg-info/SOURCES.txt
-OCR_Module.egg-info/dependency_links.txt
-OCR_Module.egg-info/top_level.txt
