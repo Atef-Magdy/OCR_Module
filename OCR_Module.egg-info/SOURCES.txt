@@ -1,5 +1,4 @@
 README.md
-pyproject.toml
 setup.py
 OCR/__init__.py
 OCR/hello.py
