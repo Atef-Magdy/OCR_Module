@@ -1,2 +1,5 @@
-*toml
-*.lock
+# Ignore Poetry lock file
+poetry.lock
+
+# Ignore all TOML files
+*.toml
