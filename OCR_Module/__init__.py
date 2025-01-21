@@ -1,1 +1,0 @@
-from OCR.hello import hello

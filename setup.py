@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="OCR_Module",
+    name="Pipeline",
     version="0.1",
-    packages=find_packages(include=["OCR", "OCR.*"]),
+    packages=find_packages(),
     install_requires=[],
     author="*",
     author_email="*",
