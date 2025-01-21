@@ -10,7 +10,7 @@ setup(
     description="OCR Package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/AbdelrahmanBahig/OCR",
+    url="https://github.com/Atef-Magdy/OCR_Module",
     classifiers=[
         "Programming Language :: Python :: 3.6^",
     ],
