@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: OCR
+Version: 0.1
+Summary: OCR Package
+Home-page: https://github.com/AbdelrahmanBahig/OCR
+Author: *
+Author-email: *
+Classifier: Programming Language :: Python :: 3.6^
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
